@@ -1,0 +1,15 @@
+git clone <ссылка> #скачать репозиторий с гитхаба
+
+git init #инициализирует гит в папочке
+
+git add <Файлик> # Добавить изменение чего-либо в .git
+
+git commit -m "Комментарий к изменению" # Сохранить изменения в ветке
+
+git push origin main # Отправить изменения на github
+
+# Назвать себя, если попросит
+git config user.email "you@example.com"
+git config user.name "Your Name"
+
+Если попросит пароль - впиши свой токен
